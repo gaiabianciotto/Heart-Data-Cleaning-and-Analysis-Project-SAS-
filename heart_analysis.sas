@@ -22,9 +22,3 @@ data work.heart;
 proc freq data=work.heart;
     tables ageCHDDiag * smokingStatus / norow nocol nopercent;
 run;
-
-/*
-Q1: What is the number of Heavy Smokers (16-25) ?  102
-Q2: What is the frequency value of Very Heavy (>25) smokers for ageCHDDiag48 ? 2
-Q3: What is the frequency value of smokingStatus=« Error » ? 3
-*/
