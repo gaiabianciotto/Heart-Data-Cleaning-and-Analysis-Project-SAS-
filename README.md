@@ -12,8 +12,8 @@ This project demonstrates data cleaning and frequency analysis on the `heart.xls
 
 ## Project Files
 - `sas_code/heart_analysis.sas`: Main SAS program
-- `data/heart_sample.xlsx`: Sample input file (if shareable)
-- `output/freq_table_output.txt`: Output from frequency table (optional)
+- `heart.xlsx`: Sample input file 
+- `output/freq_table_output.txt`: Output from frequency table 
 
 ## Requirements
 - Base SAS with XLSX engine enabled
